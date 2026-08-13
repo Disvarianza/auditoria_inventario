@@ -27,3 +27,5 @@ Este proyecto simula un análisis de datos para una firma de consultoría en con
 ## 📌 Próximos pasos
 - Integrar con Power BI para visualización interactiva
 - Conectar a base de datos real (SQLite o PostgreSQL)
+
+- 🛠️ Tecnologías: Python (Pandas) | SQL | GitHub
